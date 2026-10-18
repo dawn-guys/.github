@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawn-guys/.github/main/profile/images/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/dawn-guys/.github/main/profile/images/logo-light.svg" alt="쇼모아 SHOWMOA" width="320">
+  </picture>
+</p>
+
 # Dawn Guys
 
 네 명이 함께 흩어진 공연 정보를 한곳에 모으는 서비스 **쇼모아**를 만들고 있습니다.
