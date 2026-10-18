@@ -1,15 +1,15 @@
+# Dawn Guys
+
+네 명이 함께 흩어진 공연 정보를 한곳에 모으는 서비스 **쇼모아**를 만들고 있습니다.
+
+## 쇼모아
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawn-guys/.github/main/profile/images/logo-dark.svg">
     <img src="https://raw.githubusercontent.com/dawn-guys/.github/main/profile/images/logo-light.svg" alt="쇼모아 SHOWMOA" width="320">
   </picture>
 </p>
-
-# Dawn Guys
-
-네 명이 함께 흩어진 공연 정보를 한곳에 모으는 서비스 **쇼모아**를 만들고 있습니다.
-
-## 쇼모아
 
 > 전국 공연과 공연장을 한 곳에서 발견하고, 관심 공연을 저장해 개인 캘린더와 외부 예매처까지 연결하는 공연 정보 플랫폼
 
