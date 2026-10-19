@@ -34,7 +34,7 @@
 | 저장소 | 내용 | 기술 |
 | --- | --- | --- |
 | [showmoa-backend](https://github.com/dawn-guys/showmoa-backend) | API 서버, KOPIS 공연 데이터 매일 동기화, 서버 배포·운영 | Java 21, Spring Boot 4.1, PostgreSQL + PostGIS, Valkey, Docker Compose |
-| 프론트엔드 (공개 예정) | 화면과 사용자 경험 | TypeScript, Next.js |
+| [find-theatre-frontend](https://github.com/dawn-guys/find-theatre-frontend) | 모바일 웹 화면과 사용자 경험 (탐색, 지도, 찜, 캘린더, 상세) | TypeScript, Next.js 16, React 19, Tailwind CSS |
 
 ## 팀
 
